@@ -1,0 +1,14 @@
+.container{
+    background-color: rgb(216, 216, 216);
+    border: 3px solid;
+    width: 350px;
+    height: 500px;
+}
+
+img{
+    position: absolute;
+    padding-left: 300px;
+    transform: rotate(-20deg);
+    padding-top: 50px;
+    
+}
